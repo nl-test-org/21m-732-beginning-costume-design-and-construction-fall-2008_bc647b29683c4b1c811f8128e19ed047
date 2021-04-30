@@ -1,0 +1,40 @@
+---
+course_id: 21m-732-beginning-costume-design-and-construction-fall-2008
+layout: course_section
+menu:
+  leftnav:
+    identifier: 6287434efb7f8b965a40994c74b22f9c
+    name: Study Materials
+    weight: 40
+title: Study Materials
+type: course
+uid: 6287434efb7f8b965a40994c74b22f9c
+
+---
+
+| SES # | TOPICS | MATERIALS |
+| --- | --- | --- |
+| 1 |  {{< br >}}{{< br >}} Intro: who are you and who am I? {{< br >}}{{< br >}} What is a costume? Why a costume designer? {{< br >}}{{< br >}} Lecture: Reading the Play {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chekhov, Anton. "[_On the Harm of Tobacco_](http://method.vtheatre.net/doc/tobacco.html)." {{< br >}}{{< br >}} Baker, Georgia O'Daniel, and Helen Redel Pullman. "The Basic Figure and How Clothes Fit the Body." Chapter 1 in _A Handbook of Costume Drawing_. Burlington, MA: Focal Press, 2000. ISBN: 9780240804033. {{< br >}}{{< br >}} Basic Function of Costumes ([PDF]({{< baseurl >}}/sections/study-materials/costumes)) {{< br >}}{{< br >}} Reading the Play ([PDF]({{< baseurl >}}/sections/study-materials/play_q)) {{< br >}}{{< br >}} Stencil Rendering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/sections/study-materials/stencil)) {{< br >}}{{< br >}}  |
+| 2 |  {{< br >}}{{< br >}} Lecture: Psychology of Clothes {{< br >}}{{< br >}} Discuss _On the Harm of Tobacco_ lists {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Perrault, Charles. "[Little Red Riding Hood](http://www.gutenberg.org/files/17208/17208-h/17208-h.htm#LITTLE_RED_RIDING-HOOD)." (1697)  {{< br >}}Baring-Gould, Sabine. "Little Red Riding Hood." (1895)  {{< br >}}Sharpe, Anne. "Not So Little Red Riding Hood." (1985)  {{< br >}}Phillips, H. I. "Little Red Riding Hood as a Dictator Would Tell It." (1940) {{< br >}}{{< br >}} Taken from:  Zipes, Jack. _The Trials & Tribulations of Little Red Riding Hood_. New York, NY: Routledge, 1993. ISBN: 978-0415908351. {{< br >}}{{< br >}} The Psychology of Clothes ([PDF 1]({{< baseurl >}}/sections/study-materials/psychology)), ([PDF 2]({{< baseurl >}}/sections/study-materials/notes)) {{< br >}}{{< br >}}  |
+| 3 |  {{< br >}}{{< br >}} Discuss _Little Red Riding Hood_ and the idea of concept {{< br >}}{{< br >}}  | &nbsp; |
+| 4 |  {{< br >}}{{< br >}} Lecture: Script and Character Analysis; Research; Styles of Costumes {{< br >}}{{< br >}} Discuss _On the Harm of Tobacco_ renderings {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Script, Character, Concept ([PDF]({{< baseurl >}}/sections/study-materials/script)) {{< br >}}{{< br >}} Research ([PDF]({{< baseurl >}}/sections/study-materials/research)) {{< br >}}{{< br >}}  |
+| 5 |  {{< br >}}{{< br >}} Lecture: Translating Emotion to Visual {{< br >}}{{< br >}} Visual Conversation exercise {{< br >}}{{< br >}} Line/Emotion exercise {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Edwards, Betty. "Drawing Out Insight." Chapter 7 in _Drawing on the Artist Within_. New York, NY: Fireside, 1987. ISBN: 9780671635145. {{< br >}}{{< br >}} Boxes 5.A, 5.B, 5.C, 5.D, pp. 123-125 in _The Magic Garment_. {{< br >}}{{< br >}}  |
+| 6 |  {{< br >}}{{< br >}} Look at research for _On the Harm of Tobacco_ {{< br >}}{{< br >}} Lecture: Elements of Design {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Elements of Design ([PDF]({{< baseurl >}}/sections/study-materials/design)) {{< br >}}{{< br >}} Fig. 4.29, 4.30, 4.31 in _Costume Design_. {{< br >}}{{< br >}} pp. 72-73, 75, 92-93, 95, 101, 123-125 in _The Magic Garment_:  {{< br >}}Box 4.A, "Aspects of Line."  {{< br >}}Box 4.B, "Visual Effects of Shape in Costume."  {{< br >}}Box 4.F, "Historical Color Symbolism."  {{< br >}}Box 4.G, "Major Color Associations of Western European and American Cultures."  {{< br >}}Box 4.H, "Effects of Texture."  {{< br >}}Boxes 5.A, 5.B, 5.C, 5.D. {{< br >}}{{< br >}}  |
+| 7 |  {{< br >}}{{< br >}} Rendering exercises {{< br >}}{{< br >}} Drawing lab {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Hamm, Jack. "Building on the Double Triangle." In _Drawing the Head and Figure_. New York, NY: Perigee Trade, 1982, p. 45. ISBN: 9780399507915. {{< br >}}{{< br >}}  |
+| 8 |  {{< br >}}{{< br >}} Discuss line gowns {{< br >}}{{< br >}} Watch excerpts of _Hamlet_ by Zeffirelli and discuss idea of concept {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} "[_Hamlet_](http://www.imdb.com/title/tt0099726/)." Directed by Franco Zeffirelli. Warner Brothers, 1990. {{< br >}}{{< br >}} Boxes 5.A, 5.B, 5.C, 5.D, pp. 123-125 in _The Magic Garment_. {{< br >}}{{< br >}}  |
+| 9 |  {{< br >}}{{< br >}} Discuss food assignment with preso {{< br >}}{{< br >}} Begin drafting unit: bodice and hip block {{< br >}}{{< br >}}  | Fig. 9.7, 9.8 in _Costume Design_. |
+| 10 |  {{< br >}}{{< br >}} Discuss _Hamlet_ collages {{< br >}}{{< br >}} Continue drafting {{< br >}}{{< br >}} Begin cutting and sewing muslins {{< br >}}{{< br >}}  | &nbsp; |
+| 11 |  {{< br >}}{{< br >}} Discuss food assignment {{< br >}}{{< br >}} Finish and fit muslins {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Russell, John C. _Stupid Kids_. New York, NY: Dramatists Play Service, 2000. ISBN: 9780822216988. {{< br >}}{{< br >}}  |
+| 12 | Thrift store transformation workshop | &nbsp; |
+| 13 |  {{< br >}}{{< br >}} Pattern manipulation and drafting {{< br >}}{{< br >}} Discuss _Stupid Kids_ {{< br >}}{{< br >}} Introduce sloper manipulation project {{< br >}}{{< br >}}  | &nbsp; |
+| 14 |  {{< br >}}{{< br >}} Lecture: Stylization and Abstraction {{< br >}}{{< br >}} Wedding project {{< br >}}{{< br >}}  | &nbsp; |
+| 15 |  {{< br >}}{{< br >}} Color workshop {{< br >}}{{< br >}} Talk about garbage project {{< br >}}{{< br >}}  | &nbsp; |
+| 16 |  {{< br >}}{{< br >}} Look at _Stupid Kids_ sketches {{< br >}}{{< br >}} Begin sloper manipulation project {{< br >}}{{< br >}}  | Maginnis, Tara. [_Kiosk Man_](http://taramaginnis.com/54548_01front008/). |
+| 17 |  {{< br >}}{{< br >}} Look at group dynamics {{< br >}}{{< br >}} Discuss final project {{< br >}}{{< br >}} Continue sloper manipulation project {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Goldman, James. _The Lion in Winter_. New York, NY: Random House Trade Paperbacks, 2004. ISBN: 9780812973358. {{< br >}}{{< br >}}  |
+| 18 |  {{< br >}}{{< br >}} Look at _Stupid Kids_ renderings {{< br >}}{{< br >}} Sloper project {{< br >}}{{< br >}}  | &nbsp; |
+| 19 |  {{< br >}}{{< br >}} Look at _Kiosk Man_ sketches {{< br >}}{{< br >}} Discuss dynamics of play and characters in _Lion in Winter_ {{< br >}}{{< br >}}  | &nbsp; |
+| 20 |  {{< br >}}{{< br >}} Open shop: garbage project brainstorming {{< br >}}{{< br >}} Sloper project {{< br >}}{{< br >}} _Lion in Winter_ questions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Duct Tape Guys. "[Duct Tape Fashion Gallery One](http://www.ducttapeguys.com/fashion/fashion.html)." {{< br >}}{{< br >}} Apparel Search Company. "[Unusual Clothing - Tokyo Skirt](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_tokyo_skirt.htm)." {{< br >}}{{< br >}} Apparel Search Company. "[Unusual Clothing - Baby Mops](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_baby_mops.htm)." {{< br >}}{{< br >}} Apparel Search Company. "[Unusual Clothing - Handy Support](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_supportive_hands.htm)." {{< br >}}{{< br >}} The Scream Online. "[Hats of Meat](http://thescreamonline.com/strange/strange2-2/hatsofmeat.html)." {{< br >}}{{< br >}}  |
+| 21 |  {{< br >}}{{< br >}} Texture exercise {{< br >}}{{< br >}} Pinstripe Olympics {{< br >}}{{< br >}}  | &nbsp; |
+| 22 |  {{< br >}}{{< br >}} Look at _Lion in Winter_ preliminary sketches {{< br >}}{{< br >}} Papers returned {{< br >}}{{< br >}} Open shop {{< br >}}{{< br >}}  | &nbsp; |
+| 23 |  {{< br >}}{{< br >}} Present garbage project {{< br >}}{{< br >}} Look at finals so far if needed {{< br >}}{{< br >}} Open shop {{< br >}}{{< br >}}  | &nbsp; |
+| 24 |  {{< br >}}{{< br >}} Final project preso, _Lion In Winter_ {{< br >}}{{< br >}}  |

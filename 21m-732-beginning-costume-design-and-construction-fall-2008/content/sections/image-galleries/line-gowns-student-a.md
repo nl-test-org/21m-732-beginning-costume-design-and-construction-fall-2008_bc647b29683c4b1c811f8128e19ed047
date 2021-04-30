@@ -1,0 +1,19 @@
+---
+course_id: 21m-732-beginning-costume-design-and-construction-fall-2008
+layout: course_section
+parent_title: Image Galleries
+title: Line Gowns - Student A
+type: course
+uid: e22d60f6e6a0454bcc4b879dd1207d9d
+
+---
+
+Line Gowns
+----------
+
+### Student A
+{{< image-gallery id="e22d60f6e6a0454bcc4b879dd1207d9d_nanogallery2" baseUrl="/coursemedia/21m-732-beginning-costume-design-and-construction-fall-2008/" >}}
+{{< image-gallery-item href="cc0481d632be87634dc55e56090251d8_diagonal1.jpg" data-ngdesc="A dress with diagonal lines." text="A dress with diagonal lines." >}}
+{{< image-gallery-item href="5a619d7f73604943ddd5293eaf44cea4_vertical.jpg" data-ngdesc="A dress with vertical lines." text="A dress with vertical lines." >}}
+{{< image-gallery-item href="1350e7c587092cff8550f36d03f3849c_horizontal1.jpg" data-ngdesc="A dress with horizontal lines." text="A dress with horizontal lines." >}}
+{{</ image-gallery >}}

@@ -1,0 +1,42 @@
+---
+course_id: 21m-732-beginning-costume-design-and-construction-fall-2008
+layout: course_section
+menu:
+  leftnav:
+    identifier: a9a6fc2ac4089c5f33af17e853279f1b
+    name: Projects
+    weight: 30
+title: Projects
+type: course
+uid: a9a6fc2ac4089c5f33af17e853279f1b
+
+---
+
+This page contains details about the various activities students complete in and out of class. Examples of student work for some activities can be found on the [Image Galleries]({{< baseurl >}}/sections/image-galleries) page.
+
+| SES # | TOPICS | PROJECTS |
+| --- | --- | --- |
+| 1 |  {{< br >}}{{< br >}} Intro: who are you and who am I? {{< br >}}{{< br >}} What is a costume? Why a costume designer? {{< br >}}{{< br >}} Lecture: Reading the Play {{< br >}}{{< br >}}  | &nbsp; |
+| 2 |  {{< br >}}{{< br >}} Lecture: Psychology of Clothes {{< br >}}{{< br >}} Discuss _On the Harm of Tobacco_ lists {{< br >}}{{< br >}}  | &nbsp; |
+| 3 |  {{< br >}}{{< br >}} Discuss _Little Red Riding Hood_ versions and the idea of concept {{< br >}}{{< br >}}  | &nbsp; |
+| 4 |  {{< br >}}{{< br >}} Lecture: Script and Character Analysis; Research; Styles of Costumes {{< br >}}{{< br >}} Discuss _On the Harm of Tobacco_ renderings {{< br >}}{{< br >}}  | &nbsp; |
+| 5 |  {{< br >}}{{< br >}} Lecture: Translating Emotion to Visual {{< br >}}{{< br >}} Visual conversation exercise {{< br >}}{{< br >}} Line/Emotion exercise {{< br >}}{{< br >}}  | {{< h 3 >}}Translating emotion to visual{{< /h >}} {{< br >}}{{< br >}} Cards are layed out that feature photos of different colors and textures. Students choose an emotion from a list and them assemble a group of cards of their choice to represent that emotion. We then try and determine which emotions are represented. Each student talks aboout why they made their choices and hears feedback from the group. {{< br >}}{{< br >}} The use of cards in this exercise is adapted from Tiala, Crystal. "Teaching Visual Communication: Using Image Cards as a Teaching Tool." _Theatre Design & Technology_ 39 (Winter 2003): 10-16. {{< br >}}{{< br >}}  |
+| 6 |  {{< br >}}{{< br >}} Look at research for _On the Harm of Tobacco_ {{< br >}}{{< br >}} Lecture: Elements of Design {{< br >}}{{< br >}}  | &nbsp; |
+| 7 |  {{< br >}}{{< br >}} Rendering exercises {{< br >}}{{< br >}} Drawing lab {{< br >}}{{< br >}}  | {{< h 3 >}}Rendering{{< /h >}} {{< br >}}{{< br >}} Students spend a session practicing contour drawing, still lifes from a distance, 2 second impression sketches, and drawing fabric draping and pleats. {{< br >}}{{< br >}}  |
+| 8 |  {{< br >}}{{< br >}} Discuss line gowns {{< br >}}{{< br >}} Watch excerpts of _Hamlet_ by Zeffirelli and discuss idea of concept {{< br >}}{{< br >}}  | {{< h 3 >}}Line gowns{{< /h >}} {{< br >}}{{< br >}} Students share their renderings of dresses designed with a dominant vertical, horizontal and diagonal line. We discuss what effect each creates. (Images: [Student A]({{< baseurl >}}/sections/image-galleries/line-gowns-student-a), [Student B]({{< baseurl >}}/sections/image-galleries/line-gowns-student-b)) {{< br >}}{{< br >}}  |
+| 9 |  {{< br >}}{{< br >}} Discuss food assignment with preso {{< br >}}{{< br >}} Begin drafting unit: bodice and hip block {{< br >}}{{< br >}}  | {{< h 3 >}}Food assignment{{< /h >}} {{< br >}}{{< br >}} Ads for Vytorin, an anti-cholesterol drug, feature photos of food and people with matching appearances. See examples: [one](http://dearscience.org/wp-content/uploads/2008/04/vytorin500.jpg), [two](http://i.zdnet.com/blogs/vytorinad.JPG), [three](http://s.wsj.net/media/vytorin_c_20080116140537.jpg), [four](http://bp0.blogger.com/_ZiPiXEv_Q_g/Rd2XAUnIbvI/AAAAAAAAANA/dImNwirU7DI/s1600-h/VytorinWebAd.jpg). Students were asked to bring in a photo of a food that they find attractive. They then render a character using the same principles of design observed in the food picture. ([Images]({{< baseurl >}}/sections/image-galleries/food-assignment)) {{< br >}}{{< br >}}  |
+| 10 |  {{< br >}}{{< br >}} Discuss _Hamlet_ collages {{< br >}}{{< br >}} Continue drafting {{< br >}}{{< br >}} Begin cutting and sewing muslins {{< br >}}{{< br >}}  | &nbsp; |
+| 11 |  {{< br >}}{{< br >}} Discuss food assignment {{< br >}}{{< br >}} Finish and fit muslins {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
+| 12 | Thrift store transformation workshop | {{< h 3 >}}Thrift store transformation{{< /h >}} {{< br >}}{{< br >}} Teams of students pick an image of a period costume, and emulate it using thrift store purchases. Transformation of materials is encouraged. {{< br >}}{{< br >}}  |
+| 13 |  {{< br >}}{{< br >}} Pattern manipulation and drafting {{< br >}}{{< br >}} Discuss _Stupid Kids_ {{< br >}}{{< br >}} Introduce sloper manipulation project {{< br >}}{{< br >}}  | &nbsp; |
+| 14 |  {{< br >}}{{< br >}} Lecture: stylization and abstraction {{< br >}}{{< br >}} Wedding project {{< br >}}{{< br >}}  | {{< h 3 >}}Wedding project{{< /h >}} {{< br >}}{{< br >}} Students are assigned a persona, such as Victorian schoolmistress, punk, WASP, etc., and create a wedding dress out of newspaper in a single class session. ([Images]({{< baseurl >}}/sections/image-galleries/newspaper-wedding)) {{< br >}}{{< br >}}  |
+| 15 |  {{< br >}}{{< br >}} Color workshop {{< br >}}{{< br >}} Talk about garbage project {{< br >}}{{< br >}}  | {{< h 3 >}}Color workshop{{< /h >}} {{< br >}}{{< br >}} Student spend a session experimenting with mixing colors, first with paint, then with fabrics. {{< br >}}{{< br >}}  |
+| 16 |  {{< br >}}{{< br >}} Look at _Stupid Kids_ sketches {{< br >}}{{< br >}} Begin sloper manipulation project {{< br >}}{{< br >}}  | {{< h 3 >}}Sloper manipulation{{< /h >}} {{< br >}}{{< br >}} Students learn to manipulate the basic sloper that they have drafted to create a number of different styles. {{< br >}}{{< br >}}  |
+| 17 |  {{< br >}}{{< br >}} Look at group dynamics {{< br >}}{{< br >}} Discuss final project {{< br >}}{{< br >}} Continue sloper manipulation project {{< br >}}{{< br >}}  | {{< h 3 >}}Group dynamics{{< /h >}} {{< br >}}{{< br >}} Given a handout portraying four young women, design outfits for each that suggest a group identity but are not identical. Please see Fig. 1.39 in _Costume Design_. {{< br >}}{{< br >}}  |
+| 18 |  {{< br >}}{{< br >}} Look at _Stupid Kids_ renderings {{< br >}}{{< br >}} Sloper project {{< br >}}{{< br >}}  | &nbsp; |
+| 19 |  {{< br >}}{{< br >}} Look at _Kiosk Man_ sketches {{< br >}}{{< br >}} Discuss dynamics of play and characters in _Lion in Winter_ {{< br >}}{{< br >}}  | &nbsp; |
+| 20 |  {{< br >}}{{< br >}} Open shop: garbage project brainstorming {{< br >}}{{< br >}} Sloper project {{< br >}}{{< br >}} _Lion in Winter_ questions {{< br >}}{{< br >}}  | &nbsp; |
+| 21 |  {{< br >}}{{< br >}} Texture exercise {{< br >}}{{< br >}} Pinstripe Olympics {{< br >}}{{< br >}}  | {{< h 3 >}}Texture exercise{{< /h >}} {{< br >}}{{< br >}} From a box of black and white fabrics, students chose fabric swatches based on a list of character traits. They are then told the identity of the character and discuss how/why their choices work. {{< br >}}{{< br >}} {{< h 3 >}}Pinstripe Olympics{{< /h >}} {{< br >}}{{< br >}} Students are assigned a caricature persona such as used car salesman, rock star, lawyer, etc. and pull a costume from stock for that character; each costume must include a pinstriped suit. {{< br >}}{{< br >}}  |
+| 22 |  {{< br >}}{{< br >}} Look at _Lion in Winter_ preliminary sketches {{< br >}}{{< br >}} Papers returned {{< br >}}{{< br >}} Open shop {{< br >}}{{< br >}}  | &nbsp; |
+| 23 |  {{< br >}}{{< br >}} Present garbage project {{< br >}}{{< br >}} Look at finals so far if needed {{< br >}}{{< br >}} Open shop {{< br >}}{{< br >}}  | {{< h 3 >}}Garbage project{{< /h >}} {{< br >}}{{< br >}} Students construct an article of clothing (vest, skirt, hat, etc.) out of found materials, such as soda can tabs, plastic bags, wire, etc. {{< br >}}{{< br >}}  |
+| 24 | Final project preso, _Lion In Winter_ | Students present fully rendered and swatched designs for all costumes in _The Lion in Winter_. Included in the project is a paper describing their concept, how they did research and how they went about expressing their ideas visually. (Images: [Student A]({{< baseurl >}}/sections/image-galleries/lion-in-winter-a), [Student B]({{< baseurl >}}/sections/image-galleries/lion-in-winter-b))
